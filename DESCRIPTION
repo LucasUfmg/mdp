@@ -18,3 +18,5 @@ Imports:
     sf,
     tidyr,
     usethis
+URL: https://github.com/LucasUfmg/mdp
+BugReports: https://github.com/LucasUfmg/mdp/issues
